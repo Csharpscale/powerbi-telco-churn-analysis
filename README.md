@@ -1,6 +1,9 @@
 # powerbi-telco-churn-analysis
 Customer churn and retention analysis using Power BI
 
+## Dashboard Overview 
+![Dashboard Overview](Power BI Churn 1.png)
+
 ## Objective
 Analyze customer churn in a telecom dataset to identify key churn drivers and provide actionable retention strategies.
 
